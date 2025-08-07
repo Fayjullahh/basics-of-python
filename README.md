@@ -1,6 +1,6 @@
-# 🐍 Python Tutorial for Beginners
+# 🐍 Basics of Python for Beginners
 
-Welcome to the **Python Tutorial for Beginners** – a comprehensive and hands-on guide to learning Python from scratch. Whether you're a complete beginner or looking to refresh your skills, this tutorial will help you gain a solid foundation in Python programming.
+Welcome to the **Basics of Python for Beginners** – a comprehensive and hands-on guide to learning Python from scratch. Whether you're a complete beginner or looking to refresh your skills, this tutorial will help you gain a solid foundation in Python programming.
 
 ---
 
@@ -66,8 +66,7 @@ cd basics-of-python
 
 📖 Quiz Game
 
-🖼️ Sneak Peek
-<img width="601" height="203" alt="image" src="https://github.com/user-attachments/assets/8f0ca3ac-9833-42b3-9c67-eaf3fc245d30" />
+
 
 💡 Tips for Learning
 🧘 Take your time. Don’t rush.
