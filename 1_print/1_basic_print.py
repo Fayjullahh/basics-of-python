@@ -28,3 +28,22 @@ x = 4
 print(x)
 print(x+2)
 
+#print boolean
+
+print(True)
+print(False)
+
+#relational operation
+
+print(3>2)
+print(3>=2)
+print(3<2)
+print(3<=2)
+
+#logical operation
+
+print(3>2 and 3>1)
+print(3>2 or 3>1)
+print(3>2 or 3<1)
+print(3>2 and 3<1)
+
